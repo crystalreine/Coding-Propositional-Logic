@@ -2,8 +2,8 @@
 Gutierrez, Crystal Reine E. <br><br>
 This repository consists of all the needed files for the Pedantic Coding Exercise. This includes 2 files (README and ipynb) and 1 folder under the name "img" that consists of all the images used in the ipynb file. <br><br>
 All the files that are in this repository are listed below:<br>
-(1) A README file
-(2) An img folder that consists of the flowchart diagrams in a jpeg file type.
+(1) A README file<br>
+(2) An img folder that consists of the flowchart diagrams in a jpeg file type.<br>
     For Act 1 = act1 flowchart.jpeg<br>
     For Act 2 = pseudo flwchrt.jpeg<br>
 (3) Two ipynb file types wherein all my final answers are in the file name "201820017_DisMath CodeLab01 - Propositional Logic"<br><br>
